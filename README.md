@@ -33,10 +33,11 @@
 ## Input:
 
 ### Output:
+![image](https://github.com/user-attachments/assets/acf91def-0251-45b8-872f-8769800954d5)
 
 
-### Name:
-### Register Number:
+### Name: Lokhnath J
+### Register Number: 212223240079
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
